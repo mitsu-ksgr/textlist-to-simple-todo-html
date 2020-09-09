@@ -1,0 +1,10 @@
+
+.todolist ul {
+  margin-left: 15px;
+  padding-left: 0;
+}
+
+.todolist li {
+  list-style: none;
+}
+
